@@ -8,6 +8,8 @@ This project demonstrates a blue team SIEM lab focused on detecting and respondi
 - SSH authentication logs (auth.log)
 - SIEM detection logic (Wazuh-style)
 - Incident response documentation
+- Hands-on security labs (attack behavior analysis)
+
 
 ## Attack Scenario
 An attacker attempts multiple SSH login attempts using different usernames from a single IP address in a short time period.
@@ -21,6 +23,8 @@ An attacker attempts multiple SSH login attempts using different usernames from 
 - Translation of attacker behavior into detection logic
 - Mapping of detections to Wazuh SIEM rules
 - SOC-level alert investigation and response workflow
+- Translation of hands-on attack labs into SIEM detections
+
 
 
 ## Repository Structure

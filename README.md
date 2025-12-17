@@ -18,6 +18,10 @@ An attacker attempts multiple SSH login attempts using different usernames from 
 - Alert triage and investigation
 - Incident response reporting
 - Blue team and SOC fundamentals
+- Translation of attacker behavior into detection logic
+- Mapping of detections to Wazuh SIEM rules
+- SOC-level alert investigation and response workflow
+
 
 ## Repository Structure
 - log-sources: Linux authentication logs

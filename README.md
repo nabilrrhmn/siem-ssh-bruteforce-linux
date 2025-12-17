@@ -24,6 +24,8 @@ An attacker attempts multiple SSH login attempts using different usernames from 
 - Mapping of detections to Wazuh SIEM rules
 - SOC-level alert investigation and response workflow
 - Translation of hands-on attack labs into SIEM detections
+- aApplication of hands-on security labs to blue team detection engineering
+- Translation of attacker techniques into SIEM alert logic
 
 
 

@@ -6,7 +6,6 @@ This project demonstrates a blue team SIEM lab focused on detecting and respondi
 ## Tools and Technologies
 - Linux (Ubuntu)
 - SSH authentication logs (auth.log)
-- SIEM detection logic (Wazuh-style)
 - Incident response documentation
 - Hands-on security labs (attack behavior analysis)
 
